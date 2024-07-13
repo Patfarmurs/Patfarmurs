@@ -8,3 +8,5 @@
 
 ## 📫 Let's Connect
 - Feel free to reach out to me at: patrickkeita80@yahoo.com
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats &theme= dark) 
